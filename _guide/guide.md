@@ -1,3 +1,9 @@
+---
+title: "Teaching experience 2"
+collection: guide
+permalink: /guide/guide
+---
+
 ## 在读学生
 申钰凡 (在读博士, 协助指导，2022-今)
 侯祥鹏 (在读博士, 协助指导，2022-今)
