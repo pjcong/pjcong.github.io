@@ -216,6 +216,9 @@ collections:
   guide:
     output: true
     permalink: /:collection/:path/
+  service:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
