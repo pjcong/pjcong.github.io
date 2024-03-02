@@ -1,6 +1,6 @@
 ---
-title: "Teaching experience 2"
-collection: guide
+layout: page
+title: "Guide"
 permalink: /guide/guide
 ---
 
