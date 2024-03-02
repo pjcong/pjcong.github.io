@@ -11,6 +11,4 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+[J90] Liying Li, Chengliang Zhou, Peijin Cong, Yufan Shen, Junlong Zhou, Tongquan Wei, Makespan and Security-Aware Workflow Scheduling for Cloud Service Cost Minimization, IEEE Transactions on Cloud Computing, major revision. 
