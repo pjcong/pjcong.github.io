@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Peijin Cong received her Ph.D. degree from the School of Computer Science and Technology, East China Normal University, Shanghai, China, in 2021. She is currently an Associate Professor at the School of Computer Science and Engineering, Nanjing University of Science and Technology, Nanjing, China. She has published more than 20 refereed papers, most in premier IEEE/ACM Transactions such as IEEE TC, IEEE TCAD, IEEE TPDS, IEEE TSC, IEEE CMOTS, IEEE TSUSC, IEEE TR, and ACM CSUR.
+Peijin Cong received her Ph.D. degree from the School of Computer Science and Technology, East China Normal University, Shanghai, China, in 2021. She is currently an Associate Professor at the School of Computer Science and Engineering, Nanjing University of Science and Technology, Nanjing, China. She has published more than 20 refereed papers, most in premier IEEE/ACM Transactions such as IEEE TC, IEEE TCAD, IEEE TPDS, IEEE TSC, IEEE CMOTS, IEEE TASE, IEEE TSUSC, IEEE TR, and ACM CSUR.
 
 Her current research interests are in the areas of
 + **Edge Computing**
