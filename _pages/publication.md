@@ -15,6 +15,10 @@ author_profile: true
 
 [TSUSC] Peijin Cong, Junlong Zhou, Weiming Jiang, Mingsong Chen, Shiyan Hu, Keqin Li, “Improving Reliability and Sustainability of Hazard-Aware Cyber-Physical Systems”, IEEE Transactions on Sustainable Computing, Early Access. DOI: 10.1109/TSUSC.2022.3229310.
 
+[C27] Yinyin Tang, Guichang Yin, Peijin Cong, Jin Sun, Junlong Zhou, “A Discrete Grey Wolf Optimizer Metaheuristic for Task Offloading in Multi-Server MEC with Batteryless Devices”, ICPADS 2023, accepted
+
+[J76] 郑莹莹，周俊龙，申钰凡，丛佩金，吴泽彬. 时间和能量敏感的端-边-云车路协同资源调度优化方法. 计算机研究与发展, 60(5): 1037-1052，2023.
+
 [TASE'23] Mingyue Zhang, Junlong Zhou, Peijin Cong, Gongxuan Zhang, Cheng Zhuo, Shiyan Hu, “LIAS: A Lightweight Incentive Authentication Scheme for Forensic Services in IoV", IEEE Transactions on Automation Science and Engineering, vol. 20, no. 2, pp. 805-820, 2023.
 
 [TCC'22] Peijin Cong, Guo Xu, Junlong Zhou, Mingsong Chen, Tongquan Wei, Meikang Qiu. “Personality- and Value-aware Scheduling of User Requests in Cloud for Profit Maximization”, IEEE Transactions on Cloud Computing, vol. 10, no. 3, pp. 1991-2004, 2022.  
@@ -22,6 +26,14 @@ author_profile: true
 [TCC'22] Peijin Cong, Junlong Zhou, Mingsong Chen, Tongquan Wei. “Personality-guided Cloud Pricing via Reinforcement Learning”, IEEE Transactions on Cloud Computing, vol. 10, no. 2, pp. 925-943, 2022. 
 
 [TPDS'22] Peijin Cong, Zhixing Zhang, Junlong Zhou, Xin Liu, Yao Liu, Tongquan Wei, “Customer Adaptive Resource Provisioning for Long-Term Cloud Profit Maximization under Constrained Budget”,  IEEE Transactions on Parallel and Distributed Systems, vol. 33, no. 6, pp. 1373-1392, 2022. 
+
+[J67] Peijin Cong, Xiangpeng Hou, Minhui Zou, Jiangshan Dong, Mingsong Chen, Junlong Zhou, “Multiserver Configuration for Cloud Service Profit Maximization in the Presence of Soft Errors based on Grouped Grey Wolf Optimizer”, Journal of Systems Architecture, vol. 127, article no. 102512, 2022.
+
+[C25] Yan Xu, Liying Li, Peijin Cong, Junlong Zhou, “Energy-Efficient and Reliable Federated Learning in Heterogeneous Mobile-Edge Computing”, UIC 2022, accepted
+
+[C23] Weiming Jiang, Junlong Zhou, Peijin Cong, Gongxuan Zhang, Shiyan Hu, “QoE and Reliability-Aware Task Scheduling for Multi-User Mobile-Edge Computing”, The 17th International Conference on Wireless Algorithms, Systems, and Applications (WASA), pp. 380-392, 2022. 
+
+[C22]  Liying Li, Peijin Cong, Junlong Zhou, Zonghua Gu, Keqin Li, “Data Availability Optimization for Cyber-Physical Systems”, The 2022 IEEE International Conference on Cyber, Physical and Social Computing, pp. 349-356, 2022. Best Paper Award
 
 [CSUR'20] Peijin Cong, Junlong Zhou, Liying Li, Kun Cao, Tongquan Wei, Keqin Li, “A Survey of Hierarchical Energy Optimization for Mobile Edge Computing: A Perspective from End Devices to the Cloud”. ACM Computing Surveys, vol. 53, no. 2, pp. 1-44, 2020. 
 
@@ -34,3 +46,17 @@ author_profile: true
 [TPDS'18] Peijin Cong, Liying Li, Junlong Zhou, Kun Cao, Tongquan Wei, Mingsong Chen, Shiyan Hu. “Developing User Perceived Value Based Pricing Models for Cloud Markets”. IEEE Transactions on Parallel and Distributed Systems, vol. 29, no. 12, pp. 2742-2756, 2018. 
 
 [TCAD'18] Tongquan Wei, Junlong Zhou, Kun Cao, Peijin Cong, Mingsong Chen, Gongxuan Zhang, Xiaobo Sharon Hu, Jianming Yan. “Cost-Constrained QoS Optimization for Approximate Computation Real-Time Tasks in Heterogeneous MPSoC Systems”. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 37, no. 9, pp. 1733-1746, 2018.
+
+[C7] Liying Li, Peijin Cong, Kun Cao, Junlong Zhou, Tongquan Wei, Mingsong Chen, Xiaobo Sharon Hu. “Feedback control of real-time EtherCAT networks for reliability enhancement in CPS”. IEEE/ACM Design, Automation & Test in Europe, pp. 688-693, 2018.
+
+[J9] Junlong Zhou, Kun Cao, Peijin Cong, Tongquan Wei, Mingsong Chen, Gongxuan Zhang, Jianming Yan, and Yue Ma. “Reliability and Temperature Constrained Task Scheduling for Makespan Minimization on Heterogeneous Multi-core Platforms”. Journal of Systems and Software, vol. 133, 1-16, 2017. 
+
+[C4] Peijin Cong, Liying Li, Gaoyuan Shao, Junlong Zhou, Mingsong Chen, Kai Huang, Tongquan Wei. “User Perceived Value-Aware Cloud Pricing for Profit Maximization of Multiserver Systems”. The 23rd IEEE International Conference on Parallel and Distributed Systems, pp. 537-544, Dec. 2017. 
+
+[10] 周俊龙，柯均澎，王添，丛佩金，徐林丽，成本和可靠性感知的异构多服务器系统利润最优化方法，2023103082159，受理公开
+
+[9] 周俊龙，赵铭洲，李丽颖，丛佩金，一种基于机器学习算法的边缘设备中动态资源调度方法，2023106071565，受理公开
+
+[8] 周俊龙，侯祥鹏，丛佩金，基于顾客敏感性分析的云服务利润最优化方法及系统，授权公告日：2024.01.23，中国，授权公告号：CN116128139B，授权专利
+
+[6] 丛佩金，赵铭洲，申钰凡，周俊龙，一种端边云网络框架中智能车辆的卸载任务分配方法，授权公告日：2023.04.07，中国，授权公告号：CN115373856B，授权专利
