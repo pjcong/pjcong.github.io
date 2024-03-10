@@ -16,7 +16,7 @@ author_profile: true
 
 [J19] Peijin Cong, Junlong Zhou, Weiming Jiang, Mingsong Chen, Shiyan Hu, Keqin Li, “Improving Reliability and Sustainability of Hazard-Aware Cyber-Physical Systems”, IEEE Transactions on Sustainable Computing, Early Access. DOI: 10.1109/TSUSC.2022.3229310.
 
-[J18] Peijin Cong, Junlong Zhou, Jiali Wang, Zebin Wu, Shiyan Hu, “Learning-based Cloud Server Configuration for Energy Minimization under Reliability Constraint”, IEEE Transactions on Reliability, Early Access, DOI: 10.1109/TR.2023.3234036. 
+[J18] Peijin Cong, Junlong Zhou, Jiali Wang, Zebin Wu, Shiyan Hu, “Learning-based Cloud Server Configuration for Energy Minimization under Reliability Constraint”, IEEE Transactions on Reliability, vol. 73. no. 1, pp. 203-215, 2024. 
 
 [J17] 郑莹莹，周俊龙，申钰凡，丛佩金，吴泽彬. 时间和能量敏感的端-边-云车路协同资源调度优化方法. 计算机研究与发展, 60(5): 1037-1052，2023.
 
