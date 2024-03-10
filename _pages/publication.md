@@ -61,8 +61,8 @@ author_profile: true
 
 [C4] R. Yang, K. Cao, P. Cong, J. Zhou, M. Chen and T. Wei, "Personality-Aware VNF Deployment for Profit Maximization," 2019 IEEE Intl Conf on Parallel & Distributed Processing with Applications, Xiamen, China, 2019, pp. 380-387
 
-
 [C3] Liying Li, Peijin Cong, Kun Cao, Junlong Zhou, Tongquan Wei, Mingsong Chen, Xiaobo Sharon Hu. “Feedback control of real-time EtherCAT networks for reliability enhancement in CPS”. IEEE/ACM Design, Automation & Test in Europe, pp. 688-693, 2018.
+
 [C2] Peijin Cong, Liying Li, Gaoyuan Shao, Junlong Zhou, Mingsong Chen, Kai Huang, Tongquan Wei. “User Perceived Value-Aware Cloud Pricing for Profit Maximization of Multiserver Systems”. The 23rd IEEE International Conference on Parallel and Distributed Systems, pp. 537-544, Dec. 2017. 
 
 [C1] Y. Yang, X. Huang, S. Cheng, S. Chen and P. Cong, "SHSA: A Method of Network Verification with Stateful Header Space Analysis," 2016 IEEE 22nd International Conference on Parallel and Distributed Systems (ICPADS), Wuhan, China, 2016, pp. 232-238
