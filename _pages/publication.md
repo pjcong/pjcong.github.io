@@ -14,6 +14,8 @@ author_profile: true
 **      Journal Papers **
 期刊论文
 
+[J20] Liying Li, Chengliang Zhou, Peijin Cong, Yufan Shen, Junlong Zhou, Tongquan Wei, “Makespan and Security-Aware Workflow Scheduling for Cloud Service Cost Minimization”, IEEE Transactions on Cloud Computing, Early Access. DOI: 10.1109/TCC.2024.3382351.
+ 
 [J19] Peijin Cong, Junlong Zhou, Weiming Jiang, Mingsong Chen, Shiyan Hu, Keqin Li, “Improving Reliability and Sustainability of Hazard-Aware Cyber-Physical Systems”, IEEE Transactions on Sustainable Computing, Early Access. DOI: 10.1109/TSUSC.2022.3229310.
 
 [J18] Peijin Cong, Junlong Zhou, Jiali Wang, Zebin Wu, Shiyan Hu, “Learning-based Cloud Server Configuration for Energy Minimization under Reliability Constraint”, IEEE Transactions on Reliability, vol. 73. no. 1, pp. 203-215, 2024. 
@@ -37,17 +39,15 @@ A Survey of Profit Optimization Techniques for Cloud Providers. ACM Comput. Surv
 
 [J9] Junlong Zhou, Jin Sun, Peijin Cong, Zhe Liu, Tongquan Wei, Xiumin Zhou, Shiyan Hu. “Security-Critical Energy-Aware Task Scheduling for Heterogeneous Real-Time MPSoCs in IoT”. IEEE Transactions on Services Computing, vol. 13, no. 4, pp. 745-758, 2020. ESI Hot Paper, ESI Highly Cited Pape
 
-[J8] X. Huang, F. Li, K. Cao, P. Cong, T. Wei and S. Hu, "Queueing Theoretic Approach for Performance-Aware Modeling of Sustainable SDN Control Planes," in IEEE Transactions on Sustainable Computing, vol. 5, no. 1, pp. 121-133, 1 Jan.-March 2020
+[J8] Xinli Huang, Fanshuo Li, Kun Cao, Peijin Cong, Tongquan Wei, Shiyan Hu, "Queueing Theoretic Approach for Performance-Aware Modeling of Sustainable SDN Control Planes," in IEEE Transactions on Sustainable Computing, vol. 5, no. 1, pp. 121-133, 1 Jan.-March 2020
 
 [J7 Liying Li, Peijin Cong, Kun Cao, Junlong Zhou, Tongquan Wei, Mingsong Chen, Shiyan Hu, Xiaobo Sharon Hu. “Game Theoretic Feedback Control for Reliability Enhancement of EtherCAT-Based Networked Systems”. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 38, no. 9, pp. 1599-1610, 2019. 
 
 [J6] Kun Cao, Junlong Zhou, Peijin Cong, Liying Li, Tongquan Wei, Mingsong Chen, Shiyan Hu, Xiaobo Sharon Hu. “Affinity-Driven Modeling and Scheduling for Makespan Optimization in Heterogeneous Multiprocessor Systems”. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 38, no. 7, pp. 1189-1202, 2019. 
 
-[J5] X. Huang, S. Cheng, K. Cao, P. Cong, T. Wei and S. Hu, "A Survey of Deployment Solutions and Optimization Strategies for Hybrid SDN Networks," in IEEE Communications Surveys & Tutorials, vol. 21, no. 2, pp. 1483-1507,  2019, doi: 10.1109/COMST.2018.2871061.
+[J5] Xinli Huang, Shang Cheng, Kun Cao, Peijin Cong, Tongquan Wei, Shiyan Hu, "A Survey of Deployment Solutions and Optimization Strategies for Hybrid SDN Networks," IEEE Communications Surveys & Tutorials, vol. 21, no. 2, pp. 1483-1507,  2019.
 
-
-[J4]	Junlong Zhou, Tian Wang, Peijin Cong, Pingping Lu, Tongquan Wei, Mingsong Chen:
-Cost and makespan-aware workflow scheduling in hybrid clouds. J. Syst. Archit. 100 (2019)
+[J4]	Junlong Zhou, Tian Wang, Peijin Cong, Pingping Lu, Tongquan Wei, Mingsong Chen: Cost and makespan-aware workflow scheduling in hybrid clouds. J. Syst. Archit. 100 (2019)
 
 [J3] Peijin Cong, Liying Li, Junlong Zhou, Kun Cao, Tongquan Wei, Mingsong Chen, Shiyan Hu. “Developing User Perceived Value Based Pricing Models for Cloud Markets”. IEEE Transactions on Parallel and Distributed Systems, vol. 29, no. 12, pp. 2742-2756, 2018. 
 
@@ -58,7 +58,7 @@ Cost and makespan-aware workflow scheduling in hybrid clouds. J. Syst. Archit. 1
 **            Conference Papers     **
 会议论文
 
-[C9] Yinyin Tang, Guichang Yin, Peijin Cong, Jin Sun, Junlong Zhou, “A Discrete Grey Wolf Optimizer Metaheuristic for Task Offloading in Multi-Server MEC with Batteryless Devices”, ICPADS 2023, accepted
+[C9] Yinyin Tang, Guichang Yin, Peijin Cong, Jin Sun, Junlong Zhou, “A Discrete Grey Wolf Optimizer Metaheuristic for Task Offloading in Multi-Server MEC with Batteryless Devices”, The 29th IEEE International Conference on Parallel and Distributed Systems (ICPADS), pp. 2235-2242, 2023. 
 
 [C8] Yan Xu, Liying Li, Peijin Cong, Junlong Zhou, “Energy-Efficient and Reliable Federated Learning in Heterogeneous Mobile-Edge Computing”, UIC 2022, accepted
 
@@ -69,13 +69,13 @@ Cost and makespan-aware workflow scheduling in hybrid clouds. J. Syst. Archit. 1
 [C5] Yujuan Wen, Fengyuan Lu, Yufei Liu, Peijin Cong, Xinli Huang:
 Blockchain Consensus Mechanisms and Their Applications in IoT: A Literature Survey. ICA3PP (3) 2020: 564-579
 
-[C4] R. Yang, K. Cao, P. Cong, J. Zhou, M. Chen and T. Wei, "Personality-Aware VNF Deployment for Profit Maximization," 2019 IEEE Intl Conf on Parallel & Distributed Processing with Applications, Xiamen, China, 2019, pp. 380-387
+[C4] Ruiming Yang, Kun Cao, Peijin Cong, Junlong Zhou, Mingsong Chen, Tongquan Wei, "Personality-Aware VNF Deployment for Profit Maximization," 2019 IEEE Intl Conf on Parallel & Distributed Processing with Applications, Xiamen, China, 2019, pp. 380-387
 
 [C3] Liying Li, Peijin Cong, Kun Cao, Junlong Zhou, Tongquan Wei, Mingsong Chen, Xiaobo Sharon Hu. “Feedback control of real-time EtherCAT networks for reliability enhancement in CPS”. IEEE/ACM Design, Automation & Test in Europe, pp. 688-693, 2018.
 
 [C2] Peijin Cong, Liying Li, Gaoyuan Shao, Junlong Zhou, Mingsong Chen, Kai Huang, Tongquan Wei. “User Perceived Value-Aware Cloud Pricing for Profit Maximization of Multiserver Systems”. The 23rd IEEE International Conference on Parallel and Distributed Systems, pp. 537-544, Dec. 2017. 
 
-[C1] Y. Yang, X. Huang, S. Cheng, S. Chen and P. Cong, "SHSA: A Method of Network Verification with Stateful Header Space Analysis," 2016 IEEE 22nd International Conference on Parallel and Distributed Systems (ICPADS), Wuhan, China, 2016, pp. 232-238
+[C1] 	Yufan Yang, Xinli Huang, Shang Cheng, Shiyun Chen, Peijin Cong, "SHSA: A Method of Network Verification with Stateful Header Space Analysis," 2016 IEEE 22nd International Conference on Parallel and Distributed Systems (ICPADS), Wuhan, China, 2016, pp. 232-238.
 
 **       中国专利     **
 
