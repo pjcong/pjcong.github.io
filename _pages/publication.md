@@ -14,9 +14,12 @@ author_profile: true
 **      Journal Papers **
 期刊论文
 
-[J20] Liying Li, Chengliang Zhou, Peijin Cong, Yufan Shen, Junlong Zhou, Tongquan Wei, “Makespan and Security-Aware Workflow Scheduling for Cloud Service Cost Minimization”, IEEE Transactions on Cloud Computing, Early Access. DOI: 10.1109/TCC.2024.3382351.
+
+[J21] Liying Li, Chengliang Zhou, Peijin Cong, Yufan Shen, Junlong Zhou, Tongquan Wei, “Makespan and Security-Aware Workflow Scheduling for Cloud Service Cost Minimization”, IEEE Transactions on Cloud Computing, Early Access. DOI: 10.1109/TCC.2024.3382351.
  
-[J19] Peijin Cong, Junlong Zhou, Weiming Jiang, Mingsong Chen, Shiyan Hu, Keqin Li, “Improving Reliability and Sustainability of Hazard-Aware Cyber-Physical Systems”, IEEE Transactions on Sustainable Computing, Early Access. DOI: 10.1109/TSUSC.2022.3229310.
+[J20] Peijin Cong, Junlong Zhou, Weiming Jiang, Mingsong Chen, Shiyan Hu, Keqin Li, “Improving Reliability and Sustainability of Hazard-Aware Cyber-Physical Systems”, IEEE Transactions on Sustainable Computing, Early Access. DOI: 10.1109/TSUSC.2022.3229310.
+
+[J19] 侯祥鹏，兰兰，陶长乐，寇小勇，丛佩金，邓庆绪，周俊龙，边缘智能与协同计算：前言与进展 ，《控制与决策》， 39(7): 2385-2404, 2024.
 
 [J18] Peijin Cong, Junlong Zhou, Jiali Wang, Zebin Wu, Shiyan Hu, “Learning-based Cloud Server Configuration for Energy Minimization under Reliability Constraint”, IEEE Transactions on Reliability, vol. 73. no. 1, pp. 203-215, 2024. 
 
