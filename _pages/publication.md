@@ -14,9 +14,28 @@ author_profile: true
 **      Journal Papers **
 期刊论文
 
+[J31] Xiangpeng Hou, Junlong Zhou, Liying Li, Peijin Cong, Zebin Wu, Mingsong Chen, "Latency and Reliability-Aware Dynamic Task Offloading and Scheduling for Energy-Harvesting Systems in Mobile Edge Computing", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, Early Access, DOI: 10.1109/TCAD.2025.3642711.
 
-[J21] Liying Li, Chengliang Zhou, Peijin Cong, Yufan Shen, Junlong Zhou, Tongquan Wei, “Makespan and Security-Aware Workflow Scheduling for Cloud Service Cost Minimization”, IEEE Transactions on Cloud Computing, Early Access. DOI: 10.1109/TCC.2024.3382351.
- 
+[J30] Jiaying Yu, Haoqiu Luo, Xinfa Dai, Yong Wu, Peijin Cong, Junlong Zhou, “A Multi-Level Lightweight Framework for Deep Neural Networks on Resource-Constrained Edge Devices”, Journal of Circuits, Systems, and Computers, Early Access, https://doi.org/10.1142/S0218126626500283.
+
+[J29] Junpeng Ke, Junlong Zhou, Yufan Shen, Liying Li, Peijin Cong, Dan Meng, Zebin Wu, “Swarm Intelligence-Based Task Scheduling for Reliability Optimization of Integrated CPU-GPU Edge Platforms in Cyber-Physical-Social Systems”, IEEE Transactions on Computational Social Systems, Early Access, DOI: 10.1109/TCSS.2025.3528515.
+
+[J28] Liying Li, Tao Liu, Mingzhou Zhao, Peijin Cong, Zebin Wu, Junlong Zhou, “DNN Partitioning for GPU-CPU Heterogeneous Devices based on Imitation Learning", IEEE Internet of Things Journal, vol. 12, no. 24, pp. 55552-55566, 2025.
+
+[J27] Youling Zeng, Yue Zeng, Jining Chen, Yufan Shen, Liying Li, Peijin Cong, Junlong Zhou, Keqin Li, "AoI-Oriented Computation Offloading and Resource Allocation for End-Edge-Cloud Computing Systems", IEEE Internet of Things Journal, vol. 12, no. 19, pp. 41118-41134, 2025.
+
+[J26] Junlong Zhou, Xiangpeng Hou, Yue Zeng, Peijin Cong, Weiming Jiang, Song Guo, “Quality of Experience and Reliability-Aware Task Offloading and Scheduling for Multi-User Mobile-Edge Computing Systems”, IEEE Transactions on Services Computing, vol. 18, no. 3, pp. 1683-1696, 2025. (ESI Highly Cited Paper)
+
+[J25] Sijie Lin, Liying Li, Jining Chen, Peijin Cong, Tian Wang, Junlong Zhou, “IATS: Information-age aware task scheduling for vehicle-road-cloud cooperative systems”, Journal of Systems Architecture, vol. 167, article no. 103480, 2025.
+
+[J24] Xiaozhu Song, Qianpiao Ma, Gan Zheng, Liying Li, Peijin Cong, Junlong Zhou, “Dynamic task offloading and resource allocation for energy-harvesting end-edge-cloud computing systems”, Journal of Systems Architecture, vol. 167, article no. 103469, 2025.
+
+[J23] Liying Li, Yifei Gao, Peiwen Xia, Sijie Lin, Peijin Cong, Junlong Zhou, “Reinforcement Learning based Offloading and Resource Allocation for Multi-Intelligent Vehicles in Green Edge-Cloud Computing”, Computer Communications, vol. 232, no. 108051, 2025.
+
+[J22] Xiangpeng Hou, Junlong Zhou, Mingzhou Zhao, Liying Li, Peijin Cong, Zebin Wu, Shiyan Hu, “ILRM: Imitation Learning based Resource Management for Integrated CPU-GPU Edge Systems with Renewable Energy Sources”, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 44, no. 6, pp. 2392-2397, 2025. (ESI Hot Paper, ESI Highly Cited Paper)
+
+[J21] Liying Li, Chengliang Zhou, Peijin Cong, Yufan Shen, Junlong Zhou, Tongquan Wei, “Makespan and Security-Aware Workflow Scheduling for Cloud Service Cost Minimization”, IEEE Transactions on Cloud Computing, vol. 12, no. 2, pp. 609–624, 2024.
+
 [J20] Peijin Cong, Junlong Zhou, Weiming Jiang, Mingsong Chen, Shiyan Hu, Keqin Li, “Improving Reliability and Sustainability of Hazard-Aware Cyber-Physical Systems”, IEEE Transactions on Sustainable Computing, Early Access. DOI: 10.1109/TSUSC.2022.3229310.
 
 [J19] 侯祥鹏，兰兰，陶长乐，寇小勇，丛佩金，邓庆绪，周俊龙，边缘智能与协同计算：前言与进展 ，《控制与决策》， 39(7): 2385-2404, 2024.
@@ -60,6 +79,11 @@ A Survey of Profit Optimization Techniques for Cloud Providers. ACM Comput. Surv
 
 **            Conference Papers     **
 会议论文
+
+[C29] Yizhou Shi, Liying Li, Yue Zeng, Peijin Cong and Junlong Zhou, "Joint DNN Partition and Thread Allocation Optimization for Energy-Harvesting MEC Systems”, 2025 Design, Automation & Test in Europe Conference (DATE), pp. 1-7, 2025.
+
+
+
 
 [C9] Yinyin Tang, Guichang Yin, Peijin Cong, Jin Sun, Junlong Zhou, “A Discrete Grey Wolf Optimizer Metaheuristic for Task Offloading in Multi-Server MEC with Batteryless Devices”, The 29th IEEE International Conference on Parallel and Distributed Systems (ICPADS), pp. 2235-2242, 2023. 
 
