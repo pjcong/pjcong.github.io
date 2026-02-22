@@ -25,7 +25,7 @@ author_profile: true
 
 [J27] Youling Zeng, Yue Zeng, Jining Chen, Yufan Shen, Liying Li, **Peijin Cong***, Junlong Zhou, Keqin Li, "AoI-Oriented Computation Offloading and Resource Allocation for End-Edge-Cloud Computing Systems", IEEE Internet of Things Journal, vol. 12, no. 19, pp. 41118-41134, 2025.
 
-[J26] Junlong Zhou, Xiangpeng Hou, Yue Zeng, **Peijin Cong***, Weiming Jiang, Song Guo, “Quality of Experience and Reliability-Aware Task Offloading and Scheduling for Multi-User Mobile-Edge Computing Systems”, IEEE Transactions on Services Computing, vol. 18, no. 3, pp. 1683-1696, 2025. (**ESI Highly Cited Paper**)
+[J26] Junlong Zhou, Xiangpeng Hou, Yue Zeng, **Peijin Cong***, Weiming Jiang, Song Guo, “Quality of Experience and Reliability-Aware Task Offloading and Scheduling for Multi-User Mobile-Edge Computing Systems”, IEEE Transactions on Services Computing, vol. 18, no. 3, pp. 1683-1696, 2025. **ESI Highly Cited Paper**
 
 [J25] Sijie Lin, Liying Li, Jining Chen, **Peijin Cong**, Tian Wang, Junlong Zhou, “IATS: Information-age aware task scheduling for vehicle-road-cloud cooperative systems”, Journal of Systems Architecture, vol. 167, article no. 103480, 2025.
 
