@@ -33,17 +33,17 @@ author_profile: true
 
 [J23] Liying Li, Yifei Gao, Peiwen Xia, Sijie Lin, **Peijin Cong***, Junlong Zhou, “Reinforcement Learning based Offloading and Resource Allocation for Multi-Intelligent Vehicles in Green Edge-Cloud Computing”, Computer Communications, vol. 232, no. 108051, 2025.
 
-[J22] Xiangpeng Hou, Junlong Zhou, Mingzhou Zhao, Liying Li, **Peijin Cong**, Zebin Wu, Shiyan Hu, “ILRM: Imitation Learning based Resource Management for Integrated CPU-GPU Edge Systems with Renewable Energy Sources”, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 44, no. 6, pp. 2392-2397, 2025. (**ESI Hot Paper, ESI Highly Cited Paper**)
+[J22] Xiangpeng Hou, Junlong Zhou, Mingzhou Zhao, Liying Li, **Peijin Cong**, Zebin Wu, Shiyan Hu, “ILRM: Imitation Learning based Resource Management for Integrated CPU-GPU Edge Systems with Renewable Energy Sources”, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 44, no. 6, pp. 2392-2397, 2025. **ESI Hot Paper, ESI Highly Cited Paper**
 
 [J21] Liying Li, Chengliang Zhou, **Peijin Cong***, Yufan Shen, Junlong Zhou, Tongquan Wei, “Makespan and Security-Aware Workflow Scheduling for Cloud Service Cost Minimization”, IEEE Transactions on Cloud Computing, vol. 12, no. 2, pp. 609–624, 2024.
 
 [J20] **Peijin Cong**, Junlong Zhou, Weiming Jiang, Mingsong Chen, Shiyan Hu, Keqin Li, “Improving Reliability and Sustainability of Hazard-Aware Cyber-Physical Systems”, IEEE Transactions on Sustainable Computing, vol. 9, no. 3, pp. 271–282, 2024.
 
-[J19] 侯祥鹏，兰兰，陶长乐，寇小勇，丛佩金，邓庆绪，周俊龙，边缘智能与协同计算：前言与进展 ，《控制与决策》， 39(7): 2385-2404, 2024.
+[J19] 侯祥鹏，兰兰，陶长乐，寇小勇，**丛佩金**，邓庆绪，周俊龙，边缘智能与协同计算：前言与进展 ，《控制与决策》， 39(7): 2385-2404, 2024.
 
 [J18] **Peijin Cong**, Junlong Zhou, Jiali Wang, Zebin Wu, Shiyan Hu, “Learning-based Cloud Server Configuration for Energy Minimization under Reliability Constraint”, IEEE Transactions on Reliability, vol. 73, no. 1, pp. 203-215, 2024. 
 
-[J17] 郑莹莹，周俊龙，申钰凡，丛佩金，吴泽彬. 时间和能量敏感的端-边-云车路协同资源调度优化方法. 计算机研究与发展, 60(5): 1037-1052，2023.
+[J17] 郑莹莹，周俊龙，申钰凡，**丛佩金**，吴泽彬. 时间和能量敏感的端-边-云车路协同资源调度优化方法. 计算机研究与发展, 60(5): 1037-1052，2023.
 
 [J16] Mingyue Zhang, Junlong Zhou, **Peijin Cong**, Gongxuan Zhang, Cheng Zhuo, Shiyan Hu, “LIAS: A Lightweight Incentive Authentication Scheme for Forensic Services in IoV", IEEE Transactions on Automation Science and Engineering, vol. 20, no. 2, pp. 805-820, 2023.
 
@@ -59,7 +59,7 @@ author_profile: true
 
 [J10] **Peijin Cong**, Guo Xu, Tongquan Wei, Keqin Li: A Survey of Profit Optimization Techniques for Cloud Providers. ACM Computing Surveys, vol. 53, no. 2, article no. 26, pp. 1-35, 2021. 
 
-[J9] Junlong Zhou, Jin Sun, **Peijin Cong**, Zhe Liu, Tongquan Wei, Xiumin Zhou, Shiyan Hu. “Security-Critical Energy-Aware Task Scheduling for Heterogeneous Real-Time MPSoCs in IoT”. IEEE Transactions on Services Computing, vol. 13, no. 4, pp. 745-758, 2020.  (**ESI Hot Paper, ESI Highly Cited Paper**)
+[J9] Junlong Zhou, Jin Sun, **Peijin Cong**, Zhe Liu, Tongquan Wei, Xiumin Zhou, Shiyan Hu. “Security-Critical Energy-Aware Task Scheduling for Heterogeneous Real-Time MPSoCs in IoT”. IEEE Transactions on Services Computing, vol. 13, no. 4, pp. 745-758, 2020.  **ESI Hot Paper, ESI Highly Cited Paper**
 
 [J8] Xinli Huang, Fanshuo Li, Kun Cao, **Peijin Cong**, Tongquan Wei, Shiyan Hu, "Queueing Theoretic Approach for Performance-Aware Modeling of Sustainable SDN Control Planes," IEEE Transactions on Sustainable Computing, vol. 5, no. 1, pp. 121-133, 1 Jan.-March 2020.
 
@@ -69,7 +69,7 @@ author_profile: true
 
 [J5] Xinli Huang, Shang Cheng, Kun Cao, **Peijin Cong**, Tongquan Wei, Shiyan Hu, "A Survey of Deployment Solutions and Optimization Strategies for Hybrid SDN Networks," IEEE Communications Surveys & Tutorials, vol. 21, no. 2, pp. 1483-1507,  2019.
 
-[J4]	Junlong Zhou, Tian Wang, **Peijin Cong**, Pingping Lu, Tongquan Wei, Mingsong Chen: Cost and makespan-aware workflow scheduling in hybrid clouds. J. Syst. Archit. 100 (2019)
+[J4]	Junlong Zhou, Tian Wang, **Peijin Cong**, Pingping Lu, Tongquan Wei, Mingsong Chen: Cost and makespan-aware workflow scheduling in hybrid clouds. Journal of Systems Architecture, 100 (2019)
 
 [J3] **Peijin Cong**, Liying Li, Junlong Zhou, Kun Cao, Tongquan Wei, Mingsong Chen, Shiyan Hu. “Developing User Perceived Value Based Pricing Models for Cloud Markets”. IEEE Transactions on Parallel and Distributed Systems, vol. 29, no. 12, pp. 2742-2756, 2018. 
 
