@@ -80,10 +80,7 @@ A Survey of Profit Optimization Techniques for Cloud Providers. ACM Comput. Surv
 **            Conference Papers     **
 会议论文
 
-[C29] Yizhou Shi, Liying Li, Yue Zeng, Peijin Cong and Junlong Zhou, "Joint DNN Partition and Thread Allocation Optimization for Energy-Harvesting MEC Systems”, 2025 Design, Automation & Test in Europe Conference (DATE), pp. 1-7, 2025.
-
-
-
+[C10] Yizhou Shi, Liying Li, Yue Zeng, Peijin Cong, Junlong Zhou, "Joint DNN Partition and Thread Allocation Optimization for Energy-Harvesting MEC Systems”, 2025 Design, Automation & Test in Europe Conference (DATE), pp. 1-7, 2025.
 
 [C9] Yinyin Tang, Guichang Yin, Peijin Cong, Jin Sun, Junlong Zhou, “A Discrete Grey Wolf Optimizer Metaheuristic for Task Offloading in Multi-Server MEC with Batteryless Devices”, The 29th IEEE International Conference on Parallel and Distributed Systems (ICPADS), pp. 2235-2242, 2023. 
 
