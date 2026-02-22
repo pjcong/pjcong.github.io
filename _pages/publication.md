@@ -11,6 +11,9 @@ author_profile: true
 
 {% include base_path %}
 
+(Corresponding author *)
+
+
 **      Journal Papers **
 期刊论文
 
