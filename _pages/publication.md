@@ -11,13 +11,11 @@ author_profile: true
 
 {% include base_path %}
 
-(Corresponding author *)
-
 
 **      Journal Papers **
 期刊论文
 
-[J31] Xiangpeng Hou, Junlong Zhou, Liying Li, Peijin Cong, Zebin Wu, Mingsong Chen, "Latency and Reliability-Aware Dynamic Task Offloading and Scheduling for Energy-Harvesting Systems in Mobile Edge Computing", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, Early Access, DOI: 10.1109/TCAD.2025.3642711.
+[J31] Xiangpeng Hou, Junlong Zhou, Liying Li,** Peijin Cong***, Zebin Wu, Mingsong Chen, "Latency and Reliability-Aware Dynamic Task Offloading and Scheduling for Energy-Harvesting Systems in Mobile Edge Computing", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, Early Access, DOI: 10.1109/TCAD.2025.3642711.
 
 [J30] Jiaying Yu, Haoqiu Luo, Xinfa Dai, Yong Wu, Peijin Cong, Junlong Zhou, “A Multi-Level Lightweight Framework for Deep Neural Networks on Resource-Constrained Edge Devices”, Journal of Circuits, Systems, and Computers, Early Access, https://doi.org/10.1142/S0218126626500283.
 
