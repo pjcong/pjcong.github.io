@@ -17,15 +17,15 @@ author_profile: true
 
 [J31] Xiangpeng Hou, Junlong Zhou, Liying Li, **Peijin Cong***, Zebin Wu, Mingsong Chen, "Latency and Reliability-Aware Dynamic Task Offloading and Scheduling for Energy-Harvesting Systems in Mobile Edge Computing", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, Early Access, DOI: 10.1109/TCAD.2025.3642711.
 
-[J30] Jiaying Yu, Haoqiu Luo, Xinfa Dai, Yong Wu, **Peijin Cong**, Junlong Zhou, “A Multi-Level Lightweight Framework for Deep Neural Networks on Resource-Constrained Edge Devices”, Journal of Circuits, Systems, and Computers, Early Access, https://doi.org/10.1142/S0218126626500283.
+[J30] Jiaying Yu, Haoqiu Luo, Xinfa Dai, Yong Wu, **Peijin Cong***, Junlong Zhou, “A Multi-Level Lightweight Framework for Deep Neural Networks on Resource-Constrained Edge Devices”, Journal of Circuits, Systems, and Computers, Early Access, https://doi.org/10.1142/S0218126626500283.
 
-[J29] Junpeng Ke, Junlong Zhou, Yufan Shen, Liying Li, **Peijin Cong**, Dan Meng, Zebin Wu, “Swarm Intelligence-Based Task Scheduling for Reliability Optimization of Integrated CPU-GPU Edge Platforms in Cyber-Physical-Social Systems”, IEEE Transactions on Computational Social Systems, Early Access, DOI: 10.1109/TCSS.2025.3528515.
+[J29] Junpeng Ke, Junlong Zhou, Yufan Shen, Liying Li, **Peijin Cong***, Dan Meng, Zebin Wu, “Swarm Intelligence-Based Task Scheduling for Reliability Optimization of Integrated CPU-GPU Edge Platforms in Cyber-Physical-Social Systems”, IEEE Transactions on Computational Social Systems, Early Access, DOI: 10.1109/TCSS.2025.3528515.
 
-[J28] Liying Li, Tao Liu, Mingzhou Zhao, **Peijin Cong**, Zebin Wu, Junlong Zhou, “DNN Partitioning for GPU-CPU Heterogeneous Devices based on Imitation Learning", IEEE Internet of Things Journal, vol. 12, no. 24, pp. 55552-55566, 2025.
+[J28] Liying Li, Tao Liu, Mingzhou Zhao, **Peijin Cong***, Zebin Wu, Junlong Zhou, “DNN Partitioning for GPU-CPU Heterogeneous Devices based on Imitation Learning", IEEE Internet of Things Journal, vol. 12, no. 24, pp. 55552-55566, 2025.
 
-[J27] Youling Zeng, Yue Zeng, Jining Chen, Yufan Shen, Liying Li, **Peijin Cong**, Junlong Zhou, Keqin Li, "AoI-Oriented Computation Offloading and Resource Allocation for End-Edge-Cloud Computing Systems", IEEE Internet of Things Journal, vol. 12, no. 19, pp. 41118-41134, 2025.
+[J27] Youling Zeng, Yue Zeng, Jining Chen, Yufan Shen, Liying Li, **Peijin Cong***, Junlong Zhou, Keqin Li, "AoI-Oriented Computation Offloading and Resource Allocation for End-Edge-Cloud Computing Systems", IEEE Internet of Things Journal, vol. 12, no. 19, pp. 41118-41134, 2025.
 
-[J26] Junlong Zhou, Xiangpeng Hou, Yue Zeng, **Peijin Cong**, Weiming Jiang, Song Guo, “Quality of Experience and Reliability-Aware Task Offloading and Scheduling for Multi-User Mobile-Edge Computing Systems”, IEEE Transactions on Services Computing, vol. 18, no. 3, pp. 1683-1696, 2025. (ESI Highly Cited Paper)
+[J26] Junlong Zhou, Xiangpeng Hou, Yue Zeng, **Peijin Cong***, Weiming Jiang, Song Guo, “Quality of Experience and Reliability-Aware Task Offloading and Scheduling for Multi-User Mobile-Edge Computing Systems”, IEEE Transactions on Services Computing, vol. 18, no. 3, pp. 1683-1696, 2025. (ESI Highly Cited Paper)
 
 [J25] Sijie Lin, Liying Li, Jining Chen, **Peijin Cong**, Tian Wang, Junlong Zhou, “IATS: Information-age aware task scheduling for vehicle-road-cloud cooperative systems”, Journal of Systems Architecture, vol. 167, article no. 103480, 2025.
 
